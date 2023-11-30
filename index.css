@@ -163,6 +163,9 @@ body{
 .flow--space-small {
   --flow-top: .75rem;
 }
+.flow--space-small-top{
+  margin-top: .75rem;
+}
 .block{
   display: block;
 }
